@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crud</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="correo">Ingrese su correo</string>
+    <string name="telefono">Ingrese su teléfono</string>
+
+    <string name="agregar">Agregar</string>
+    <string name="consultar">Consultar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="borrar">Borrar</string>
+
+    <string name="id">ID</string>
+</resources>
