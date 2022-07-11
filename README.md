@@ -1,2 +1,2 @@
 # ejerciciosAndroid
- código de Android en proceso con fines de aprendizaje
+ código de Java para Android en proceso de revisión.
